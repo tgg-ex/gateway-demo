@@ -5,13 +5,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.zmjt</groupId>
-    <artifactId>demo</artifactId>
+    <artifactId>gateway-demo</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>client-service</module>
         <module>eureka-service</module>
-        <module>sleuth-service</module>
         <module>client2-service</module>
         <!--        <module>gateway-service</module>-->
     </modules>

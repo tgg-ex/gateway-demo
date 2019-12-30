@@ -10,7 +10,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.zmjt</groupId>
-    <artifactId>gateway</artifactId>
+    <artifactId>gateway-service</artifactId>
     <name>gateway</name>
     <description>Demo project for Spring Boot</description>
 

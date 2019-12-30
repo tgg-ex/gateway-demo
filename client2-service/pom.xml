@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>client2</artifactId>
+    <artifactId>client2-service</artifactId>
     <dependencies>
         <!--eureka-->
         <dependency>
